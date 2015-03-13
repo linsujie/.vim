@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/Jagee/Public/Runge-Kutta'
+let g:netrw_dirhist_2='/home/linsj/Public/Proton_prop'
+let g:netrw_dirhist_3='/home/linsj/.vim'
+let g:netrw_dirhist_4='/home/linsj/Public/Proton_prop'
+let g:netrw_dirhist_5='/home/linsj/.vim'
+let g:netrw_dirhist_6='/home/linsj/.vim/bundle/vundle-master'
